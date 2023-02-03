@@ -1,1 +1,1 @@
-c is fun
+python is fun
